@@ -1,10 +1,10 @@
-# 🏠 House Prices Prediction (Regression)
+#  House Prices Prediction (Regression)
 
 This project focuses on predicting house prices using machine learning regression models, including **Decision Tree Regressor**, **Random Forest Regressor**, **XGBoost Regressor**, and a **Stacked Ensemble** model. The dataset used is based on housing data with various features describing the properties.
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 
 - `HousePricesRegression.ipynb` — Jupyter Notebook with data preprocessing, model training, evaluation, and visualization.
 - `train.csv` — Training dataset with features and target (`SalePrice`).
@@ -13,7 +13,7 @@ This project focuses on predicting house prices using machine learning regressio
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 1. **Decision Tree Regressor**
    - Basic model to understand decision-based splits.
@@ -33,7 +33,7 @@ This project focuses on predicting house prices using machine learning regressio
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 - **R² Score**
 - Cross-validation scores for model stability
